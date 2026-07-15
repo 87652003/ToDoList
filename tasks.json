@@ -1,0 +1,20 @@
+[
+    {
+        "task": "Task 1",
+        "deadline": "2023-12-02",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "task": "Task 2",
+        "deadline": "2024-12-01",
+        "priority": "Medium",
+        "status": "Pending"
+    },
+    {
+        "task": "3",
+        "deadline": "2024-12-01",
+        "priority": "Low",
+        "status": "Completed"
+    }
+]
